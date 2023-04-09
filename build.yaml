@@ -1,0 +1,10 @@
+targets:
+  $default:
+    builders:
+      hive_generator:
+        options:
+          # Replace `your_package_name` with the name of your package
+          # (this is the name of the directory that contains your `lib` folder).
+          # Make sure to use forward slashes (`/`) instead of backslashes (`\`)
+          # for the directory separator.
+          include: lib/**/*.dart

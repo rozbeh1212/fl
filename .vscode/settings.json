@@ -1,0 +1,12 @@
+{
+  "dart.flutterSdkPath": "E:\\Programs\\flutter",
+  "editor.suggest.snippetsPreventQuickSuggestions": false,
+  "aiXcoder.showTrayIcon": true,
+  "appMap.findingsEnabled": true,
+  "genieai.enableConversationHistory": true,
+  "genieai.openai.model": "gpt-3.5-turbo-0301",
+  "genieai.openai.maxTokens": 5000,
+  "cmake.sourceDirectory": "${workspaceFolder}/windows/flutter",
+  "chatgpt-ai.mode": "ChatGPTAPI",
+  "chatgpt-ai.apiKey": "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"
+}
